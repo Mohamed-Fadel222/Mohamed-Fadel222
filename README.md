@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fadel</h1>
-<h3 align="center">A passionate Computer Engineer /h3>
+<h3 align="center">A passionate Computer Engineer and Intrested in AI  /h3>
 <img align= "center" alt =coding width="300" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif">
 - 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
